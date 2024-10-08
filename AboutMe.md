@@ -9,6 +9,8 @@
 ## What I hope to learn from CyberSecurity
 ### I hope to learn how to keep my software secure.
 
+## Hobbies
+### I like to hangout with my friends.
 
 ## Role Models
 
