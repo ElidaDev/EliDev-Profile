@@ -48,3 +48,7 @@ print("Hello world")
 
 ```
 
+## Famous Quote
+
+>“Whether or not you can never become great at something, you can always become better at it. Don't ever forget that! And don't say “I'll never be good” - Neil deGrasse Tyson
+
