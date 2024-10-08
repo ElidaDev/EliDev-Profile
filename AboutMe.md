@@ -32,3 +32,5 @@
 
 |Song name |Artist |Genre |Year Released |Notes |
 |----------|-------|------|--------------|------|
+|sick |The Boys |Rap |2023 |N/a | 
+
