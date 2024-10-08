@@ -25,3 +25,7 @@
 
 ![ThorPFP](https://github.com/ElidaDev/EliDev-Profile/blob/main/download.jpg)
 
+* Evan Gresham(Code Bullet)
+
+
+![CodePFP](https://github.com/ElidaDev/EliDev-Profile/blob/main/codePfp.jpg)
