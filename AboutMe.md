@@ -32,5 +32,11 @@
 
 |Song name |Artist |Genre |Year Released |Notes |
 |-  |-  |-  |-  |-  |
-|sick |The Boys |Rap |2023 |N/a | 
+|Sick |The Boys |Rap |2023 |N/a | 
+|Falling |Trevor Daniel |Pop |2018 |N/a | 
+|Not like us |Kendrick Lamar |Rap |2024 |N/a | 
+|Jericho |Iniko |Pop |2023 |N/a | 
+|Cradles |Sub Urban |Pop |2023 |N/a | 
+
+
 
