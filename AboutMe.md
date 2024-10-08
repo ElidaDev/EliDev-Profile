@@ -12,6 +12,6 @@
 
 ## Role Models
 
-* John Hammond <>
-* Jason "Thor" Hall
-* 
+* John Hammond ![JohnPFP](C:\Users\B1\EliDev-Profile\channels4_profile.jpg)
+* Jason "Thor" Hall ![ThorPFP](C:\Users\B1\EliDev-Profile\download.jpg)
+
