@@ -30,6 +30,8 @@
 
 ![CodePFP](https://github.com/ElidaDev/EliDev-Profile/blob/main/codePfp.jpg)
 
+## Favorite Songs
+
 |Song name |Artist |Genre |Year Released |Notes |
 |-  |-  |-  |-  |-  |
 |Sick |The Boys |Rap |2023 |N/a | 
@@ -38,5 +40,11 @@
 |Jericho |Iniko |Pop |2023 |N/a | 
 |Cradles |Sub Urban |Pop |2023 |N/a | 
 
+## Code Block (Python)
 
+``` python
+
+print("Hello world")
+
+```
 
