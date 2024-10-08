@@ -29,3 +29,6 @@
 
 
 ![CodePFP](https://github.com/ElidaDev/EliDev-Profile/blob/main/codePfp.jpg)
+
+|Song name |Artist |Genre |Year Released |Notes |
+|----------|-------|------|--------------|------|
